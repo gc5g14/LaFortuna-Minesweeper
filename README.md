@@ -10,9 +10,10 @@ Minesweeper game created for the LaFortuna board used in COMP2215
 4. Press center to reveal field.
 5. Long press up or down arrow to mark as flagged / uncertain field.
 6. Find all the mines!
+7. Hold < (left arrow) to return to main menu.
 
 ## Features included:
-* 2 map sizes
+* 3 map sizes
 * 3 levels of difficulty for each map size
 * Randomly generated game setups
 * Flagging (with counter) and question marks
@@ -35,6 +36,6 @@ Minesweeper game created for the LaFortuna board used in COMP2215
 
 ## Some of the code used in this projects belongs to different authors:
 * To read switches (routa.c and routa.h) Peter Danneger's code (adapted by Klaus-Peter Zauner) is used
-* To drive the display (lcd folder) Steve Gunn's code (adapted by Klaus-Peter Zauner and modified by me) is used
+* To drive the display (lcd folder) Steve Gunn's code (adapted by Klaus-Peter Zauner) is used
 
 This code is released under the GPLv3 licence
